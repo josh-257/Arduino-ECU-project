@@ -1,0 +1,10 @@
+# Arduino / build junk
+*.hex
+*.elf
+
+# VS Code
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
